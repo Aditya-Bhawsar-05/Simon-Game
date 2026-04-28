@@ -1,1 +1,1 @@
-game where players repeat an expanding sequence of colors and sounds. Each round adds a new step, increasing difficulty. The game continues until a mistake is made, testing the player’s memory and focus. 
+Simon Game is a memory-based game where players repeat an expanding sequence of colors and sounds. Each round adds a new step, increasing difficulty. The game continues until a mistake is made, testing the player’s memory and focus.
